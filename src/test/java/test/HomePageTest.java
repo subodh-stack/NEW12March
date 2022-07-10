@@ -41,8 +41,5 @@ public class HomePageTest extends BaseClass {
 		Thread.sleep(4000);
 	}
 	
-	@Test 
-	public void testGitHUB() {
-		
-	}
+
 }
