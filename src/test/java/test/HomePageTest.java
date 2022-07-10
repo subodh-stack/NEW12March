@@ -40,4 +40,9 @@ public class HomePageTest extends BaseClass {
 	public void test() throws InterruptedException {
 		Thread.sleep(4000);
 	}
+	
+	@Test 
+	public void testGitHUB() {
+		
+	}
 }
