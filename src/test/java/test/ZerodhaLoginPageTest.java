@@ -38,10 +38,12 @@ WebDriver driver;
 		zerodhaLoginPage.enterPin(pin,driver);
 		zerodhaLoginPage.clickOnContinue();
 		softAssert.assertAll();
+		}
 	
-		
+	@Test
+	public void demo() {
+		System.out.println("Hello");
 	}
-	
 	
 	
 }
